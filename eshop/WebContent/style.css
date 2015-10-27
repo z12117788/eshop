@@ -1,0 +1,21 @@
+tr {  font-family: "宋体"; font-size: 9pt}
+a:link {  color: #000000; text-decoration: none}
+a:visited {  color: #000000; text-decoration: none}
+a:hover {  color: #3333FF; text-decoration: underline}
+.textfeild {  border: 1px #FF9900 solid; font-family: "宋体"; font-size: 9pt}
+form {  margin-top: 0px; margin-bottom: 4px}
+.hotPrice {  color: #FF0000; text-decoration: line-through}
+a.productName:link {  font-family: "宋体"; font-size: 14px; color: #000066; text-decoration: underline; font-weight: bold}
+a.yellow:hover {  color: #FF9900; text-decoration: underline}
+a.red:hover {  color: #CC0000; text-decoration: underline}
+a.white:hover {  color: #FFFFFF; text-decoration: underline}
+a.navi:link {  color: #000000; text-decoration: underline}
+a.navi:visited {  color: #000000; text-decoration: underline}
+a.navi:hover {  color: #999999; text-decoration: none}
+.productName {  font-family: "宋体"; font-size: 14px; font-weight: bold; color: #000066}
+a.mark:visited {  font-family: "宋体"; font-size: 13px; color: #CC0000; text-decoration: underline; font-weight: bold}
+a.mark:link {  font-family: "宋体"; font-size: 13px; color: #990000; text-decoration: underline; font-weight: bold}
+a.mark:hover {  font-family: "宋体"; font-size: 13px; color: #CC3300; text-decoration: none; font-weight: bold}
+.textbox {  font-family: "宋体"; font-size: 12px; margin-top: 1px; margin-bottom: 1px; border: #A0A0A4; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+a.productName:visited {  font-family: "宋体"; font-size: 14px; color: #000066; text-decoration: underline; font-weight: bold}
+a.productName:hover {  font-family: "宋体"; font-size: 14px; font-weight: bold; color: #ff6600; text-decoration: none}

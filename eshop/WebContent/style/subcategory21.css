@@ -1,0 +1,30 @@
+tr {  font-family: "宋体"; font-size: 9pt}
+a:link {  color: #000000; text-decoration: none}
+a:visited {  color: #000000; text-decoration: none}
+a:hover {  color: #3333FF; text-decoration: underline}
+.textfeild {  border: 1px #FF9900 solid; font-family: "宋体"; font-size: 9pt}
+form {  margin-top: 0px; margin-bottom: 4px}
+input {  font-family: "宋体"; font-size: 9pt; background-color: #FFFFE6; margin-top: 2px; margin-bottom: 0px; border: 1px #000000 solid; padding-top: 0px; padding-bottom: 0px}
+.hotPrice {  color: #FF0000; text-decoration: line-through}
+a.productName:active {  font-family: "宋体"; font-size: 14px; font-weight: bold; color: #000066; text-decoration: underline}
+a.productName:link {  font-family: "宋体"; font-size: 14px; color: #000066; text-decoration: underline; font-weight: bold}
+a.yellow:hover {  color: #FF9900; text-decoration: underline}
+a.red:hover {  color: #CC0000; text-decoration: underline}
+a.white:hover {  color: #FFFFFF; text-decoration: underline}
+a.commend:link {  color: #330066; text-decoration: underline}
+a.commend:visited {  color: #330066; text-decoration: underline}
+a.commend:hover {  color: #999999; text-decoration: none}
+.commendtitle {  color: #FFCC00; background-color: #000099}
+.commendbox {  border: 1px #000099 solid}
+.bestsellbox {  border: #333366; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.bestselltitle {  color: #FFFF99; background-color: #333366}
+a.bestsell:link {  color: #000000; text-decoration: underline}
+a.bestsell:visited {  color: #000000; text-decoration: underline}
+a.bestsell:hover {  color: #9999FF; text-decoration: none}
+a.navi:link {  color: #000000; text-decoration: underline}
+a.navi:visited {  color: #000000; text-decoration: underline}
+a.navi:hover {  color: #999999; text-decoration: none}
+.list {  font-family: "宋体"; font-size: 9pt; color: #330066; background-color: #FFFFCA; border: 1px #330066 solid}
+.productName {  font-family: "宋体"; font-size: 12pt; color: #330066; text-decoration: underline; font-weight: bold}
+a.productName:visited {  font-family: "宋体"; font-size: 14px; font-weight: bold; color: #000066; text-decoration: underline}
+a.productName:hover {  font-family: "宋体"; font-size: 14px; font-weight: bold; color: #FF6600; text-decoration: none}
