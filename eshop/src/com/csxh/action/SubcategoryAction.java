@@ -112,6 +112,7 @@ public class SubcategoryAction {
 		}
 		
 		this.req.setAttribute("productList", productList);
+		this.req.setAttribute("pager", pager);
 
 		return result;
 	}

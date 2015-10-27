@@ -98,12 +98,14 @@
       </table>
       <table width="100%" border="0" cellspacing="2" cellpadding="2">
         <tr> 
-          <td valign="middle" align="left">当前为第 ${subProducts_first} 到 ${subProducts_last} 条记录，共${subProducts_total}条商品信息 </td>
+          <td valign="middle" align="left">当前为第 ${pager.firstRow+1} 到 ${pager.lastRow} 条记录，共${pager.lastRow-pager.firstRow}条商品信息 </td>
         </tr>
       </table>
       
       
       <table width="99%" border="0" cellspacing="2" cellpadding="5">
+      <!--商品信息开始-->
+      
         <tr> 
           <td rowspan="3" width="20%" valign="top" align="center">
           <a href="product.asp?"><img src="images/product/${sImgUrl}" border="0"/></a>
@@ -137,10 +139,10 @@
           <td colspan="2" height="1" bgcolor="#CCCCCC"></td>
         </tr>
       </table>
-      
+      <!--商品信息结束-->
       <table width="100%" border="0" cellspacing="2" cellpadding="2">
         <tr> 
-          <td> 当前为第 ${subProducts_first} 到 ${subProducts_last} 条记录，共${subProducts_total}条商品信息 </td>
+          <td> 当前为第 ${pager.firstRow+1} 到 ${pager.lastRow} 条记录，共${pager.lastRow-pager.firstRow}条商品信息 </td>
         </tr>
         <tr> 
           <td align="center"> 
